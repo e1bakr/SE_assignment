@@ -1,0 +1,16 @@
+{
+  "name": "randomcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "LCA_js.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.2.5"
+  },
+  "type" : "module"
+}
